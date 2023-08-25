@@ -1,6 +1,6 @@
 <h1 align="center" id="title">🤖Basic Python Projects🤖</h1>
 
-<p align="center"><img src="https://t.ly/DAG15" alt="project-image"/></p>
+<p align="center"><img src="https://github.com/Sandip123samanta/Basic-Python-Projects/blob/master/Basic-Python-Projects.jpeg" alt="project-image"/></p>
 
 <p id="description">These projects offer a foundation in various programming concepts and techniques providing a starting point for further learning and exploration in Python programming.</p>
 
